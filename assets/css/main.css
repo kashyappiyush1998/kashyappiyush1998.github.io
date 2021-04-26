@@ -79,8 +79,15 @@ input, select, textarea {
 	border-top-right-radius: 50% 50%;
 	border-bottom-right-radius: 50% 50%;
 	border-bottom-left-radius: 50% 50%;
-  }
+ }
 
+ article {
+	 height: fit-content;
+ }
+
+ /* .bottom-three {
+	margin-bottom: 3cm;
+ } */
 /* Basic */
 
 	@-ms-viewport {
