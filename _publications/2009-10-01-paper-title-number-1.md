@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-07-01
 venue: 'CVPRW'
 paperurl: 'https://arxiv.org/pdf/2306.00559.pdf'
-citation: 'Rishubh Parihar, Raghav Magazine, Piyush Tiwari, R. Venkatesh Babu. <br><i>2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</i>.'
+citation: 'Rishubh Parihar, Raghav Magazine, Piyush Tiwari, R. Venkatesh Babu. <br><i>2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW).</i><br>'
 ---
 
 Real-world objects perform complex motions that involve multiple independent motion components. For example, while talking, a person continuously changes their expressions, head, and body pose. In this work, we propose a novel method to decompose motion in videos by using a pretrained image GAN model. We discover disentangled motion subspaces in the latent space of widely used style-based GAN models that are semantically meaningful and control a single explainable motion component. The proposed method uses only a few 
