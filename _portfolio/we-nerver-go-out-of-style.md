@@ -1,6 +1,6 @@
 ---
 title: "We never go out of Style"
-excerpt: "Motion Disentanglement by Subspace Decomposition of Latent Space.<br/><br/><img src='/images/cvprw2023.gif'>"
+excerpt: "Motion Disentanglement by Subspace Decomposition of Latent Space.<br/><br/><img src='/images/cvprw2023.gif' width='600' height='269'>"
 collection: portfolio
 ---
 
