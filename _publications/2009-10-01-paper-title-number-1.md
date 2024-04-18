@@ -1,12 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "We never go out of Style: Motion Disentanglement by Subspace Decomposition of Latent Space"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/we-never-go-out-of-style
+excerpt: ''
+date: 2023-07-01
+venue: 'CVPRW'
+paperurl: 'https://arxiv.org/pdf/2306.00559.pdf'
+citation: 'Rishubh Parihar, Raghav Magazine, Piyush Tiwari, R. Venkatesh Babu. <br><i>2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Real-world objects perform complex motions that involve multiple independent motion components. For example, while talking, a person continuously changes their expressions, head, and body pose. In this work, we propose a novel method to decompose motion in videos by using a pretrained image GAN model. We discover disentangled motion subspaces in the latent space of widely used style-based GAN models that are semantically meaningful and control a single explainable motion component. The proposed method uses only a few 
+ ground truth video sequences to obtain such subspaces. We extensively evaluate the disentanglement properties of motion subspaces on face and car datasets, quantitatively and qualitatively. Further, we present results for multiple downstream tasks such as motion editing, and selective motion transfer, e.g. transferring only facial expressions without training for it.

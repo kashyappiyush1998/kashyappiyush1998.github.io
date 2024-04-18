@@ -9,56 +9,68 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Work experience
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* VR Lab at IIT Delhi : Project Scientist<br>
+<i>July 2023 - Now</i>
+  * Working under the guidance of [Prof. Rahul Narain](https://www.cse.iitd.ac.in/~narain/) and [Prof. Subodh Kumar](https://www.cse.iitd.ac.in/~subodh/).
+  * Writing C++ code for real-time rendering of 3d brain ventricle system to simulate neurosurgery conditions for doctors.
+  * Addition and correction of Shader code in OpenGL.
+  * Used Haptics device for feedback and Sofa framework for tearing simulation.
+  * Feedback and improvement loop through regular meetings with professors from IIT Delhi and doctors from AIIMS Delhi.
+  * Project mentioned in [Times Of India(TOI)](https://timesofindia.indiatimes.com/city/delhi/aiims-ai-based-neurosurgery-simulation-training/articleshow/106463303.cms).
   
-Teaching
+
+<br>
+* Video Analytics Lab at IISC Bangalore: Research Assistant<br>
+<i>July 2022 - April 2023</i>
+  * Worked under the guidance of [Prof. Venkatesh Babu](https://cds.iisc.ac.in/faculty/venky/) and his [PhD. Student Rishubh Parihar](https://www.linkedin.com/in/rishubh-parihar/).
+  * Face editing and decomposition using StyleGan models.
+  * 360-degree image rendering from a single human image using stable diffusion.
+  * Rendering datasets from training using Blender Python API.
+  * Out-of-Order Object Removal project so that no trash parts are left behind at the time of repair for Boeing.
+
+
+<br>
+* LensCorp.ai: Computer Vision Research Engineer<br>
+<i>August 2021 - July 2022</i>
+  * Biometrics and Fingerprint Matching.
+  * Human face manipulation to generate 3d face models.
+
+<br>
+* Spyne.ai: Computer Vision Developer<br>
+<i>August 2021 - July 2022</i>
+  * Implemented Background Removal On Cars, Footwear, and People for marketplace-ready image generation.
+  * Producing Shadows for real-world/near-perfect marketplace-ready images. 
+  * Microsoft Azure, AWS, and GCP Virtual machines and storage management and usage. 
+
+
+Education
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Bachelors of Technology(B. Tech) in Computer Science and Engineering (2020)<br><br>
+<i>Galgotias College of Engineering and Technology</i><br>
+<i>Affliliated to Dr. APJ Abdul Kalam Technology University(AKTU)</i><br>
+
+
+Skills
+======
+* Deep Learning, Machine Learning, Computer Vision
+* Python, C++, OpenGL
+* Rendering Pipeline
+* Image and Video Processing
+* Blender and Blender Python
+* Pytorch, Tensorflow
+* Pytorch3d, Openmesh
+* Flask, FastAPI
+* AWS EC2, SageMaker, Lambda
+* GCP, Azure
+* Selenium
+
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
