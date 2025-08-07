@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone, I am Piyush Tiwari. I am currently working as Project Scientist in Virtual Reality Lab at IIT Delhi under [Prof Rahul Narain](https://www.cse.iitd.ac.in/~narain/) and [Prof Subodh Kumar](https://www.cse.iitd.ac.in/~subodh/). Here I work on real time and interactive simulation and rendering of Neurosurgery operation called Endoscopic Third Ventriculostomy(ETV) Surgery. This project is funded by Department of Science and Technology, India, in collaboration with AIIMS Delhi.
+Hello everyone, I am Piyush Tiwari. I am a student at University of Zaragoza pursuing Masters Degree in [Robotics, Graphics, and Computer Vision](https://eina.unizar.es/en/mrgcv). My primary interest lies in high quality rendering in computer graphics and my secondary interest is in Computer Vision and Deep Learning.
+
+I have worked as a Project Scientist in Virtual Reality Lab at IIT Delhi under [Prof Rahul Narain](https://www.cse.iitd.ac.in/~narain/) and [Prof Subodh Kumar](https://www.cse.iitd.ac.in/~subodh/). Here I worked on real time and interactive simulation and rendering of Neurosurgery operation called Endoscopic Third Ventriculostomy(ETV) Surgery. This project is funded by Department of Science and Technology, India, in collaboration with AIIMS Delhi.
 
 Previous to this I was Research Assitant at Indian Institute of Science(IISC) Bangalore. I worked at [Vision and AI Lab(VAL)](https://val.cds.iisc.ac.in/index.html) under [Prof Venkatesh Babu](https://cds.iisc.ac.in/faculty/venky/). My work was based on Computer Vision and Deep Learning, especially with GANs. We used StyleGan's latent space decompostion for motion disentaglement in a video.
 

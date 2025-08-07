@@ -18,7 +18,7 @@ Publications
 Work experience
 ======
 * VR Lab at IIT Delhi : Project Scientist<br>
-<i>July 2023 - Now</i>
+<i>July 2023 - Nov 2024</i>
   * Working under the guidance of [Prof. Rahul Narain](https://www.cse.iitd.ac.in/~narain/) and [Prof. Subodh Kumar](https://www.cse.iitd.ac.in/~subodh/).
   * Writing C++ code for real-time rendering of 3d brain ventricle system to simulate neurosurgery conditions for doctors.
   * Addition and correction of Shader code in OpenGL.
@@ -53,6 +53,9 @@ Work experience
 
 Education
 ======
+Masters in Robotics, Graphics, and Computer Vision (2027)<br><br>
+<i>University of Zaragoza, Zaragoza, Spain</i><br>
+<br><br>
 Bachelors of Technology(B. Tech) in Computer Science and Engineering (2020)<br><br>
 <i>Galgotias College of Engineering and Technology</i><br>
 <i>Affliliated to Dr. APJ Abdul Kalam Technology University(AKTU)</i><br>
