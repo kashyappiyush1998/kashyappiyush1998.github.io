@@ -45,7 +45,7 @@ Work experience
 
 <br>
 * Spyne.ai: Computer Vision Developer<br>
-<i>August 2021 - July 2022</i>
+<i>September 2020 - August 2022</i>
   * Implemented Background Removal On Cars, Footwear, and People for marketplace-ready image generation.
   * Producing Shadows for real-world/near-perfect marketplace-ready images. 
   * Microsoft Azure, AWS, and GCP Virtual machines and storage management and usage. 
@@ -53,27 +53,23 @@ Work experience
 
 Education
 ======
-Masters in Robotics, Graphics, and Computer Vision (2027)<br><br>
+* Masters in Robotics, Graphics, and Computer Vision (2027)<br><br>
 <i>University of Zaragoza, Zaragoza, Spain</i><br>
 <br><br>
-Bachelors of Technology(B. Tech) in Computer Science and Engineering (2020)<br><br>
+* Bachelors of Technology(B. Tech) in Computer Science and Engineering (2020)<br><br>
 <i>Galgotias College of Engineering and Technology</i><br>
 <i>Affliliated to Dr. APJ Abdul Kalam Technology University(AKTU)</i><br>
 
 
 Skills
 ======
+* Ray Tracing, Path Tracing
 * Deep Learning, Machine Learning, Computer Vision
 * Python, C++, OpenGL
 * Rendering Pipeline
 * Image and Video Processing
 * Blender and Blender Python
 * Pytorch, Tensorflow
-* Pytorch3d, Openmesh
+* Pytorch3d, Openmesh, Open3D, Cloud Compare
 * Flask, FastAPI
-* AWS EC2, SageMaker, Lambda
-* GCP, Azure
-* Selenium
-
-
-  
+* GCP, Azure  
