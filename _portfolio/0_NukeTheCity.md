@@ -4,11 +4,13 @@ collection: portfolio
 excerpt: "Volumetric path tracer built on top of Nori with emissive media."
 ---
 
-<iframe width="100%" height="350"
-src="https://www.youtube.com/embed/JS_OkhReueE"
-frameborder="0"
-allowfullscreen>
-</iframe>
+<div markdown="0" style="margin-bottom: 1.5em;">
+  <iframe width="100%" height="350"
+    src="https://www.youtube.com/embed/JS_OkhReueE"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
 
 I rendered this video frame-by-frame using my custom **NORI renderer** for my course project at the **University of Zaragoza** in *Modelling and Simulation of Appearance*.
 
