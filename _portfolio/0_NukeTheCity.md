@@ -1,16 +1,19 @@
 ---
 title: "Nuke The City"
 collection: portfolio
-excerpt: "Volumetric path tracer built on top of Nori with emissive media."
+excerpt: "Volumetric path tracer built on top of Nori with emissive media.<br/><br/><img src='/images/nuke_the_city.gif'>"
+
 ---
 
-<div markdown="0" style="margin-bottom: 1.5em;">
-  <iframe width="100%" height="350"
+<div markdown="0" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 1.5em;">
+  <iframe
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     src="https://www.youtube.com/embed/JS_OkhReueE"
     frameborder="0"
     allowfullscreen>
   </iframe>
 </div>
+
 
 I rendered this video frame-by-frame using my custom **NORI renderer** for my course project at the **University of Zaragoza** in *Modelling and Simulation of Appearance*.
 
